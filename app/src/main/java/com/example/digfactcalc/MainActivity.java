@@ -6,11 +6,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import com.example.calclogic.Calc;
-/*
-To Do List: Test Code
-Fix labels and delete unnecessary dependencies
 
- */
 public class MainActivity extends AppCompatActivity {
     EditText input;
     TextView output;
