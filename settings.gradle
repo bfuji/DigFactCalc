@@ -1,0 +1,3 @@
+include ':calclogic'
+include ':app'
+rootProject.name = "DigFactCalc"
